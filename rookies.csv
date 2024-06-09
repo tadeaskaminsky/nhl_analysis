@@ -1,22 +1,21 @@
-,Round 1,Round 1,,,,,,NHL Scoring Stats,NHL Scoring Stats,NHL Scoring Stats,NHL Scoring Stats,NHL Scoring Stats,NHL Scoring Stats,NHL Goalie Stats,NHL Goalie Stats,NHL Goalie Stats,NHL Goalie Stats,NHL Goalie Stats,NHL Goalie Stats,,Round 1-additional
-Overall,Team,Player,Nat.,Pos,Age,To,Amateur Team,GP,G,A,PTS,+/-,PIM,GP,W,L,T/O,SV%,GAA,PS,-9999
-1,Montreal Canadiens,Juraj Slafkovsky,SK,LW,18,2024,TPS (Finland),121,24,36,60,-32,88,,,,,,,3.8,slafkju01
-2,New Jersey Devils,Simon Nemec,SK,D,18,2024,HK Nitra (Slovakia),60,3,16,19,-7,33,,,,,,,2.6,nemecsi01
-3,Arizona Coyotes,Logan Cooley,US,C,18,2024,USA U-18 Development Team (USDP/USHL),82,20,24,44,-13,18,,,,,,,3.6,coolelo01
-4,Seattle Kraken,Shane Wright,CA,C,18,2024,Kingston Frontenacs (OHL),16,5,2,7,5,2,,,,,,,1.1,wrighsh01
-5,Philadelphia Flyers,Cutter Gauthier,SE,LW,18,2024,USA U-18 Development Team (USDP/USHL),1,0,1,1,1,0,,,,,,,0.1,gauthcu01
-6,Columbus Blue Jackets,David Jiricek,CZ,D,18,2024,HC Plzen (Czech),47,1,9,10,-8,24,,,,,,,1.0,jiricda01
-7,Chicago Blackhawks,Kevin Korchinski,CA,D,18,2024,Seattle Thunderbirds (WHL),76,5,10,15,-39,20,,,,,,,1.6,korchke01
-8,Detroit Red Wings,Marco Kasper,AT,C,18,2023,Rogle BK (Sweden),1,0,0,0,0,0,,,,,,,0.0,kaspema01
-9,Buffalo Sabres,Matthew Savoie,CA,C,18,2024,Winnipeg Ice (WHL),1,0,0,0,0,0,,,,,,,0.0,savoima01
-10,Anaheim Ducks,Pavel Mintyukov,RU,D,18,2024,Saginaw Spirit (OHL),63,4,24,28,-20,24,,,,,,,2.7,mintypa01
-11,Arizona Coyotes,Conor Geekie,CA,C,18,,Winnipeg Ice (WHL),,,,,,,,,,,,,,geekico01
-12,Columbus Blue Jackets,Denton Mateychuk,CA,D,18,,Moose Jaw Warriors (WHL),,,,,,,,,,,,,,mateyde01
-13,Chicago Blackhawks,Frank Nazar,US,C,18,2024,USA U-18 Development Team (USDP/USHL),3,1,0,1,-4,0,,,,,,,0.0,nazarfr01
-14,Winnipeg Jets,Rutger Mcgroarty,US,RW,18,,USA U-18 Development Team (USDP/USHL),,,,,,,,,,,,,,mcgroru01
-15,Vancouver Canucks,Jonathan Lekkerimaki,SE,RW,18,,Djurgardens IF (Sweden),,,,,,,,,,,,,,lekkejo01
-16,Buffalo Sabres,Noah Ostlund,SE,C,18,,Djurgardens IF Jr. (Sweden Jr.),,,,,,,,,,,,,,ostluno01
-17,Nashville Predators,Joakim Kemell,FI,RW,18,,JYP (Finland),,,,,,,,,,,,,,kemeljo01
-18,Dallas Stars,Lian Bichsel,CH,D,18,,Leksands IF (Sweden),,,,,,,,,,,,,,bichsli01
-19,Minnesota Wild,Liam Ohgren,SE,LW,18,2024,Djurgardens IF Jr. (Sweden Jr.),4,1,1,2,0,0,,,,,,,0.2,ohgreli01
-20,Washington Capitals,Ivan Miroshnichenko,RU,LW,18,2024,Omskie Krylia (Russia-2),21,2,4,6,-4,6,,,,,,,0.3,mirosiv01
+Overall,Team,Player,Nat.,Pos,Age,To,Amateur Team,GP,G,A,PTS,+/-,PIM
+1,Montreal Canadiens,Juraj Slafkovsky,SK,LW,18,2024,TPS (Finland),121,24,36,60,-32,88
+2,New Jersey Devils,Simon Nemec,SK,D,18,2024,HK Nitra (Slovakia),60,3,16,19,-7,33
+3,Arizona Coyotes,Logan Cooley,US,C,18,2024,USA U-18 Development Team (USDP/USHL),82,20,24,44,-13,18
+4,Seattle Kraken,Shane Wright,CA,C,18,2024,Kingston Frontenacs (OHL),16,5,2,7,5,2
+5,Philadelphia Flyers,Cutter Gauthier,SE,LW,18,2024,USA U-18 Development Team (USDP/USHL),1,0,1,1,1,0
+6,Columbus Blue Jackets,David Jiricek,CZ,D,18,2024,HC Plzen (Czech),47,1,9,10,-8,24
+7,Chicago Blackhawks,Kevin Korchinski,CA,D,18,2024,Seattle Thunderbirds (WHL),76,5,10,15,-39,20
+8,Detroit Red Wings,Marco Kasper,AT,C,18,2023,Rogle BK (Sweden),1,0,0,0,0,0
+9,Buffalo Sabres,Matthew Savoie,CA,C,18,2024,Winnipeg Ice (WHL),1,0,0,0,0,0
+10,Anaheim Ducks,Pavel Mintyukov,RU,D,18,2024,Saginaw Spirit (OHL),63,4,24,28,-20,24
+11,Arizona Coyotes,Conor Geekie,CA,C,18,,Winnipeg Ice (WHL),,,,,,,,,,
+12,Columbus Blue Jackets,Denton Mateychuk,CA,D,18,,Moose Jaw Warriors (WHL),,,,,,,,,
+13,Chicago Blackhawks,Frank Nazar,US,C,18,2024,USA U-18 Development Team (USDP/USHL),3,1,0,1,-4,0
+14,Winnipeg Jets,Rutger Mcgroarty,US,RW,18,,USA U-18 Development Team (USDP/USHL),,,,,,,
+15,Vancouver Canucks,Jonathan Lekkerimaki,SE,RW,18,,Djurgardens IF (Sweden),,,,,,,,,
+16,Buffalo Sabres,Noah Ostlund,SE,C,18,,Djurgardens IF Jr. (Sweden Jr.),,,,,,,,,
+17,Nashville Predators,Joakim Kemell,FI,RW,18,,JYP (Finland),,,,,,,,,
+18,Dallas Stars,Lian Bichsel,CH,D,18,,Leksands IF (Sweden),,,,,,,,,
+19,Minnesota Wild,Liam Ohgren,SE,LW,18,2024,Djurgardens IF Jr. (Sweden Jr.),4,1,1,2,0,0
+20,Washington Capitals,Ivan Miroshnichenko,RU,LW,18,2024,Omskie Krylia (Russia-2),21,2,4,6,-4,6
